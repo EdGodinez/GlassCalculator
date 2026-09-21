@@ -7,7 +7,7 @@ El proyecto incorpora efectos visuales de transparencia, desenfoque y movimiento
 ## Vista previa
 
 <p align="center">
-  <img src="assets/glass-calculator-flyer.png" alt="GlassCalculator" width="100%">
+  <img src="assets/glass-calculator-flyers.png" alt="GlassCalculator" width="100%">
 </p>
 
 ![GlassCalculator](assets/glass-calculator.png)
