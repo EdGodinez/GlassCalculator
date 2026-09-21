@@ -10,8 +10,6 @@ El proyecto incorpora efectos visuales de transparencia, desenfoque y movimiento
   <img src="assets/glass-calculator-flyers.png" alt="GlassCalculator" width="100%">
 </p>
 
-![GlassCalculator](assets/glass-calculator.png)
-
 ## Vista general
 
 La calculadora permite realizar operaciones matemáticas básicas mediante una interfaz sencilla e interactiva.
