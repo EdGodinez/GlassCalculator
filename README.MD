@@ -121,7 +121,7 @@ No es necesario instalar dependencias.
 Clona el repositorio:
 
 ```bash
-git clone URL_DE_TU_REPOSITORIO
+git clone https://github.com/EdGodinez/GlassCalculator
 ```
 
 Entra a la carpeta del proyecto:
