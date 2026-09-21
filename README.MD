@@ -4,11 +4,28 @@
 
 El proyecto incorpora efectos visuales de transparencia, desenfoque y movimiento 3D utilizando la librería **VanillaTilt.js**.
 
+<p align="center">
+  <a href="https://edgodinez.github.io/GlassCalculator/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-GlassCalculator-14ff47?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+  </a>
+
+  <a href="https://github.com/EdGodinez/GlassCalculator" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
+  </a>
+</p>
+
 ## Vista previa
 
 <p align="center">
   <img src="assets/glass-calculator-flyers.png" alt="GlassCalculator" width="100%">
 </p>
+
+## Demo en vivo
+
+Puedes probar la calculadora directamente desde tu navegador sin instalar nada.
+
+**Live Demo:**
+[Probar GlassCalculator](URL_DE_TU_DEMO)
 
 ## Vista general
 
@@ -90,7 +107,7 @@ GlassCalculator/
 ├── index.html
 ├── README.md
 ├── assets/
-│   └── glass-calculator.png
+│   └── glass-calculator-flyers.png
 ├── css/
 │   └── styles.css
 └── js/
@@ -101,10 +118,10 @@ GlassCalculator/
 
 No es necesario instalar dependencias.
 
-Clona el repositorio: 
+Clona el repositorio:
 
 ```bash
-git clone git clone https://github.com/EdGodinez/GlassCalculator.git
+git clone URL_DE_TU_REPOSITORIO
 ```
 
 Entra a la carpeta del proyecto:
