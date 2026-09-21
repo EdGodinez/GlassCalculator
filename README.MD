@@ -25,7 +25,7 @@ El proyecto incorpora efectos visuales de transparencia, desenfoque y movimiento
 Puedes probar la calculadora directamente desde tu navegador sin instalar nada.
 
 **Live Demo:**
-[Probar GlassCalculator](URL_DE_TU_DEMO)
+[Probar GlassCalculator](https://edgodinez.github.io/GlassCalculator/)
 
 ## Vista general
 
